@@ -5,7 +5,7 @@
     <title>GIT and GITHUB</title>
 </head>
 <body>
-    <h1>Hello GDSC</H1>
+    <h1>Welcome GDSC</H1>
 <body>
 
 </html>
